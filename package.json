@@ -1,6 +1,6 @@
 {
-  "name": "sunny-pkr-currency-converter",
-  "version": "1.0.0",
+  "name": "wardah-currency-converter",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
